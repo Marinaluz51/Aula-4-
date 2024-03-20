@@ -1,1 +1,1 @@
-# Practice: Web Page with Articles
+# Practice: Dynamic Mini Blog
